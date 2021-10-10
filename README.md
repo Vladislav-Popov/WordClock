@@ -13,8 +13,17 @@
     <iarduino_RTC_DS3231.h>
     <Adafruit_NeoPixel.h>
 
-    
+Clock face legend:
+
 ![Clock face legend](https://user-images.githubusercontent.com/57004611/136710671-b5d0b22a-1689-4ee5-b3a9-e43075b941ad.png)
+
+     *light sensor - not implemented in the project
+
+Circuit:
+
+![Clock_circuit](https://user-images.githubusercontent.com/57004611/136710983-a4d87a30-0669-4c38-ae9d-c70aeec7af28.png)
+
+Photo:
 
 ![IMG_3999](https://user-images.githubusercontent.com/57004611/136710193-847cdba0-7186-4b7f-a455-b7688d1bcac7.jpeg)
 
@@ -22,4 +31,4 @@
 
 ![IMG_4014](https://user-images.githubusercontent.com/57004611/136710839-40a32af2-10ab-4891-a837-c4c69a9cac31.jpeg)
 
-                                                 by Vladislav Popov
+By Vladislav Popov
