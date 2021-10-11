@@ -27,7 +27,7 @@ button: +1 minute; +5 minute; +1 hour; Reset.
 
 Photo:
 
-Steel face 3 mm. Waterget cutting.
+Steel face 3 mm. Waterjet cutting.
 
 ![IMG_3999](https://user-images.githubusercontent.com/57004611/136710193-847cdba0-7186-4b7f-a455-b7688d1bcac7.jpeg)
 
