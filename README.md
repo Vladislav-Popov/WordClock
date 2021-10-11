@@ -21,6 +21,8 @@ Clock face legend:
 
 Circuit:
 
+button: +1 minute; +5 minute; +1 hour; Reset.
+
 ![Clock_circuit](https://user-images.githubusercontent.com/57004611/136710983-a4d87a30-0669-4c38-ae9d-c70aeec7af28.png)
 
 Photo:
@@ -28,6 +30,8 @@ Photo:
 ![IMG_3999](https://user-images.githubusercontent.com/57004611/136710193-847cdba0-7186-4b7f-a455-b7688d1bcac7.jpeg)
 
 ![IMG_4004](https://user-images.githubusercontent.com/57004611/136710241-38d9e386-dc05-4fae-b639-5d14ceb0c4eb.jpeg)
+
+Time: 5:08
 
 ![IMG_4014](https://user-images.githubusercontent.com/57004611/136710839-40a32af2-10ab-4891-a837-c4c69a9cac31.jpeg)
 
